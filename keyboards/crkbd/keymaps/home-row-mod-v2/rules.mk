@@ -1,1 +1,1 @@
-RGB_LIGHT_ENABLE = yes    # Enable WS2812 RGB underlight.
+RGB_LIGHT_ENABLE = no    # Enable WS2812 RGB underlight.
